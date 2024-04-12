@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uf,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,181.8,-119.3625,-90.0,top
+C2,1uf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,177.2,-118.25,0.0,top
+C3,0.1uf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,172.75,-123.0,180.0,top
+C4,1uf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,177.2,-120.25,0.0,top
+C5,0.1uf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,172.75,-124.75,180.0,top
+D1,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,158.875,-126.75,0.0,top
+F1,350mA,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,184.3375,-118.5,180.0,top
+J1,DF12NB_3.0_-20DS-0.5V_51_,HRS_DF12NB_3.0_-20DS-0.5V_51_,189.0,-109.0,90.0,top
+J2,USB_C_Receptacle_USB2.0_12402012E212A,USB_C_Receptacle_Amphenol_12402012E212A,190.29,-122.82,90.0,top
+R1,470,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,164.25,-126.75,180.0,top
+R2,5.1k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,185.0025,-121.1,180.0,top
+R3,5.1k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,185.0,-125.7,180.0,top
+SW1,SW_Push,TS-1187A-B-A-B,161.75,-121.875,0.0,top
+U1,AP7333_33SAG_SOT23,SOT-23,174.0375,-119.3,0.0,top
+U2,CH340E,MSOP-10_3x3mm_P0.5mm,177.75,-123.65,0.0,top
