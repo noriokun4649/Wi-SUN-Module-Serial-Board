@@ -1,2 +1,2 @@
 # Wi-SUN-Module-Serial-Board
-MB-RL7023-11をUSBシリアルに変換する基板です
+秋月電子の謎SoCに内蔵されている Wi-SUN モジュール MB-RL7023-11 をUSBシリアルに変換する基板です。
